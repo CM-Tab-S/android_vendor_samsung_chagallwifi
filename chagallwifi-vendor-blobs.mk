@@ -39,7 +39,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/chagallwifi/proprietary/lib/libarcsoft_sensorndk.so:system/lib/libarcsoft_sensorndk.so \
     vendor/samsung/chagallwifi/proprietary/lib/libarcsoft_vdoinvideo.so:system/lib/libarcsoft_vdoinvideo.so \
     vendor/samsung/chagallwifi/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
-    vendor/samsung/chagallwifi/proprietary/lib/libliveframework.so:system/lib/libliveframework.so \
     vendor/samsung/chagallwifi/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/chagallwifi/proprietary/lib/libvdis.so:system/lib/libvdis.so \
     vendor/samsung/chagallwifi/proprietary/bin/drmserver:system/bin/drmserver.samsung \
